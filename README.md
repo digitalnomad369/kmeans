@@ -54,6 +54,8 @@ To install these packages, do the following:
 - To install Matplotlib, type “__pip install matplotlib__” and press Enter.
 - To install Sci-Kit, type “__pip install sklearn__” and press Enter.
 
+# Application components
+
 # References 
 
 __Calculating Euclidean distance:__

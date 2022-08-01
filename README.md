@@ -57,11 +57,17 @@ tammyleebastian@gmail.com
 
 # References 
 
-_Calculating Euclidean distance:_
+__Calculating Euclidean distance:__
+
 *https://www.delftstack.com/howto/numpy/calculate-euclidean-distance/*
 
-_Reading CSV files:_
+__Reading CSV files:__
+
 *https://docs.python.org/2/library/csv.html/*
+
+__Creating cluster scatterplots:_
+
+*https://www.askpython.com/python/examples/plot-k-means-clusters-python*
   
   
 

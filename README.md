@@ -52,6 +52,7 @@ tammyleebastian@gmail.com
 # License and Copyright
 
   © Tammy-Lee Bastian
+   Licensed under the [MIT License](LICENSE)
   
   
 

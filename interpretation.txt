@@ -85,7 +85,7 @@
      cluster that is made up of mostly 2008 countries? Try and explain why in
      your text file.
 	 
-	 - dataBoth observations: 
+     - dataBoth observations: 
 	 
 	 Interestingly, using 4 clusters on dataBoth.csv, it is observed that
 	 a number of African countries, such as Swaziland, South Africa and Botswana 
@@ -111,6 +111,6 @@
 	 birth rates and lower life spans among the citizens of the mentioned regions. 
 	 
 	 A common observation made is that countries grouped in the higher clusters (first and second-world
-     countries)	 have higher life expectancies, while countries in low clusters (third-world or developing
+         countries) have higher life expectancies, while countries in low clusters (third-world or developing
 	 countries) have much lower life expectancies, which can greatly be attributed to lack of access to
 	 quality healthcare and poverty. 

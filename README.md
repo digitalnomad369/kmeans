@@ -71,6 +71,29 @@ The following functions were used:
 3. __nearest_centroid__ (this function finds the closest centroid to each point of all the centroids)
 4. __cluster_scatterplot__ (this function helps to plot and visualize the clusters)
 
+- __Initialization procedure___: the code blocks in the initialization procedure is used to 
+  initialize the initial number of clusters and iterations. 
+It is also used to get the following input from the user:
+1. the name of the dataset they want to use.
+2. their desired number of clusters. 
+3. their desired max number of iterations. 
+
+Random centroids is also initialized from the csv file and 
+added to the 'centroids' list. 
+
+__Implementation of the k-means algorithm__: 
+in this code block you will:
+1. iterate through the number of iterations, 
+2. find the closest centroid to each data point and assign the target point to that centroid's cluster, 
+3. calculate the new mean of all points in the cluster, 
+4. visualize the cluster after each iteration,
+5. and initialize the final cluster data
+
+__Display results__: 
+1. Print the number of countries belonging to each cluster;
+2. Print the list of countries belonging to each cluster;
+3. Print the mean life expectancy and birth rate for each cluster
+
 # References 
 
 __Calculating Euclidean distance:__

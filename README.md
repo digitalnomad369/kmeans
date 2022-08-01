@@ -56,6 +56,22 @@ To install these packages, do the following:
 
 # Application components
 
+To improve the structure and readability of the code, the __kmeans.py__
+is comprised of the following code blocks:
+
+- __K-means algorithm pseudocode__: this code block provides a bried, but concise 
+  pseudocode of how the k-means algorithm will be implemented.
+- __References__: in this block, links are provided as acknowledgement of external resources used
+  for this program.
+- __Libraries__: in this block all external packages (csv, numpy and matplotlib) are imported. 
+- __Functions__: in these code blocks all required functions are declared. 
+                 The following functions were used
+		 - __euclidean_dist_calc__ (this function computes the distance between two data points)
+		 - __read_csv__ (this function reads in data from csv files)
+		 - __nearest_centroid__ (this function finds the closest centroid to each point of all 
+		   the centroids)
+		 - __cluster_scatterplot__ (this function helps to plot and visualize the clusters)
+
 # References 
 
 __Calculating Euclidean distance:__

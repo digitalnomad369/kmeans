@@ -43,18 +43,6 @@ Alternatively, you can download Visual Studio Code which also supports compatibi
 - To download the Visual Studio Code IDE including the Coding Pack for Python, click on the following link: 
 *https://code.visualstudio.com/docs/python/coding-pack-python*
 
-# Contributors
-
-Tammy-Lee Bastian
-
-tammyleebastian@gmail.com
-
-# License and Copyright
-
-  © Tammy-Lee Bastian
-  
-   Licensed under the [MIT License](LICENSE)
-
 # References 
 
 __Calculating Euclidean distance:__
@@ -68,10 +56,21 @@ __Reading CSV files:__
 __Creating cluster scatterplots:_
 
 *https://www.askpython.com/python/examples/plot-k-means-clusters-python*
+
+# Contributors
+
+Tammy-Lee Bastian
+
+tammyleebastian@gmail.com
+
+# License and Copyright
+
+  © Tammy-Lee Bastian
+  
+   Licensed under the [MIT License](LICENSE)
+
   
   
-
-
 
 
 

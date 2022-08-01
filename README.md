@@ -69,7 +69,7 @@ The following functions were used:
 1. __euclidean_dist_calc__ (this function computes the distance between two data points)
 2. __read_csv__ (this function reads in data from csv files)
 3. __nearest_centroid__ (this function finds the closest centroid to each point of all the centroids)
-4.__cluster_scatterplot__ (this function helps to plot and visualize the clusters)
+4. __cluster_scatterplot__ (this function helps to plot and visualize the clusters)
 
 # References 
 

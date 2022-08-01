@@ -94,6 +94,22 @@ __Display results__:
 2. Print the list of countries belonging to each cluster;
 3. Print the mean life expectancy and birth rate for each cluster
 
+# Sample output
+
+![kmeans1](https://user-images.githubusercontent.com/102178512/182128718-56b929b5-f27b-465c-8367-0b221fb70e4c.jpg)
+
+![kmeans2](https://user-images.githubusercontent.com/102178512/182128760-f9ee2e36-108a-4d0b-9eea-22c7740acf34.jpg)
+
+![kmeans3](https://user-images.githubusercontent.com/102178512/182128826-584934dd-143b-4e3d-8dd7-2a5d7339d2a9.jpg)
+
+![kmeans4](https://user-images.githubusercontent.com/102178512/182128889-dd094aa8-3630-48ba-b4ff-e757e00e7797.jpg)
+
+![kmeans5](https://user-images.githubusercontent.com/102178512/182129489-738435ff-9f1b-4612-a704-737f5753a8f7.jpg)
+
+![kmeans6](https://user-images.githubusercontent.com/102178512/182129527-d8a05667-6b3b-4315-96a1-0746083b6724.jpg)
+
+![kmeans7](https://user-images.githubusercontent.com/102178512/182129560-c568486b-f835-43f8-8bfc-27e27c4c3681.jpg)
+
 # References 
 
 __Calculating Euclidean distance:__
@@ -118,10 +134,4 @@ tammyleebastian@gmail.com
 
   © Tammy-Lee Bastian
   
-   Licensed under the [MIT License](LICENSE)
-
-  
-  
-
-
-
+  Licensed under the [MIT License](LICENSE)

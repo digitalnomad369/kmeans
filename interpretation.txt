@@ -1,0 +1,116 @@
+ ● Create a text file called interpretation.txt and fill in your answers 
+   to the questions below.
+ 
+ ● Run your kmeans.py file using 3 clusters on the 1953 and 2008 datasets
+   separately. Document your observations in your text file. Take note of how
+   the clusters change from 1953 to 2008. You will need to pay attention not
+   only to which countries are in clusters together but also to the Life
+   Expectancy and BirthRates for those clusters.
+
+   - 1953 Observations: 
+   
+   Main observations of the 1953 dataset, using 3 clusters shows the cluster with the 
+   lowest centroid (22.017625) has the least amount of countries (48) belonging to that cluster, which 
+   represents first-world or developed countries.
+   
+   These are countries with lower birth rates and the highest mean life expectancies of
+   over 65 years. Some of these countries in North America include Canada and the United States, 
+   as well as Asian countries, Japan and the Democratic Republic of Korea and Oceania's Australia
+   and New Zealand. The majority of the European continent's countries also belongs to this cluster, 
+   including the United Kingdom, Italy, Belgium, Spain and Scandanavian regions (Demark, Norway and
+   Sweden). 
+   
+   Observations of these clusters also suggests the higher the centroid, the higher the birth rate and
+   the lower the mean life expectancy of the countries belonging to that particular cluster. This is evident 
+   in the cluster with a higher centroid of 41.22366667, which 60 countries belong to. This cluster represents
+   second-world countries. 
+   
+   As previously stated, the birth rate is higher and the mean life expectancy of the countries belonging to 
+   this cluster is just over 55 years. Some of the countries belonging to this cluster includes 
+   Mexico, Chile, Cuba, Brazil and Panama from South America, Mauritius from Africa, Philipines, Sri Lanka, 
+   Singapore, Malaysia and Thailand from Asia.
+   
+   This suggests there's quite a few South American and Asian countries belonging to this cluster and very few,
+   if any European or North American countries belonging to this cluster. There is also very few African countries 
+   in this cluster. 
+   
+   Finally, the cluster with the highest centroid point of 47.36817045 (the highest birth rate), 
+   represents developing or third-world countries. These are countries with the highest mean birth 
+   rates and lowest mean life expectancy of just over 39 years. It is interesting to note it is the 
+   cluster with the most countries - 88 in total belonging to this cluster. Another interesting 
+   observation is that a majority of the countries in this cluster are situated on the African
+   continent. Some of these countries include Egypt, Congo, Mozambique and South Africa. A few
+   South American countries also belong to this cluster including Honduras, Nicaragua and El Salvador
+   and Asian countries such as India, Pakistan and Bangladesh. Almost no European or North American 
+   regions are present in this cluster. 
+   
+   - 2008 Observations: 
+   
+   The first interesting observation of the 2008 dataset is that the mean life expectancy in all 
+   3 clusters have increased, while the mean birth rate is slightly lower in all clusters, compared
+   to the 1953 dataset. 
+   
+   The cluster with the lowest centroid (birth rate) of 12.12441558, has the highest mean life 
+   expectancy of over 76 years. Once again, this cluster mainly represents developed or first-world 
+   countries. Some countries that were previously in clusters with higher centroids, such as Brazil,
+   Mauritius and Singapore, with higher birth rates and lower mean life expectancies, have moved up
+   to this cluster. 
+   
+   Countries that remain in a high cluster, include the United States, Canada and most of Europe,
+   such as Austria, Belgium, Italy and the United Kingdom. Interestingly, as opposed to the 1953 dataset, 
+   this cluster holds the most countries, having 80 countries belonging to this cluster. 
+   
+   The next cluster, with a slightly higher centroid (birth rate) of 22.89519444
+   has a decreased mean life expectancy of just over 70 years. This cluster includes
+   countries such as Venezuela, Egypt, Algeria, Libya and Mexico. This cluster has
+   a total of 69 countries belonging to it. 
+   
+   On the other hand, the third and lowest cluster, with the highest centroid of 37.72787234, has
+   the lowest mean life expectancy of just over 53 years. Interestingly, as opposed to the 
+   1953 dataset, where this cluster had the most number of countries belonging to it, 
+   it now holds the least amount of countries - 47 in total. Once again, as in the 1953 dataset, 
+   the majority of these countries are located on the African continent, such as South Africa, Ethiopia, 
+   Zimbabwe and Kenya. Actually, closely observing this cluster, this cluster is almost exclusively 
+   comprised of African countries, with some exceptions of Papua New Guinea and Yemen. 
+   
+   Overall observations of the 2008 data, it suggests that the general mean birth rate has 
+   decreased and the mean life expectancy has increased, even in developing countries. 
+   This could be as a result of increased urbanisation and industrialisation. 
+   
+   ● Next, run the algorithm with 4 clusters on dataBoth.csv. Note any
+     observations in your text file. Which countries are moving up clusters?
+     How does the data from 2008 compare to the data from 1958? Are there
+     any 2008 countries that are in a cluster that is made up mostly of 1953
+     countries? Try and explain why. Are there any 1953 countries that are in a
+     cluster that is made up of mostly 2008 countries? Try and explain why in
+     your text file.
+	 
+	 - dataBoth observations: 
+	 
+	 Interestingly, using 4 clusters on dataBoth.csv, it is observed that
+	 a number of African countries, such as Swaziland, South Africa and Botswana 
+	 are moving up clusters, whereas countries such as Angola, Mali and Nigeria 
+	 remain in a lower cluster, categorized by a high mean birth rate and a lower
+	 mean life expectancy. 
+	 
+	 Another interesting observation made, the lowest cluster, with centroid 47.67017544, which has 
+	 the lowest mean life expectancy out of all 4 clusters, is only comprised of 1953 country data. 
+	 
+	 Countries such as Canada, the United States and majority of European countries including Austria, 
+	 Germany, Greece, Italy and Ireland, as well as autonomous island territories such as Barbados,
+	 Fiji, Cyprus and Jamaica remain in the highest cluster, characterized by low mean birth rates and 
+	 the highest mean life expectancy of just over 73 years. The reason for this can primarily be linked
+	 to improved socio-economic standards, urbanisation and industrialisation, which then leads 
+	 to improved standards of living. This increases the overall life expectancies in these regions. 
+	 
+	 On the other hand, African countries such as Angola, Malawi, Nigeria and Mozambique 
+	 which is in the lowest cluster, characterized by a high mean birth rate and low mean life expectancy,
+	 is in a cluster made up of primarily 1953 data. The reason for this could be greatly reduced 
+	 socio-economic development, lack of proper infrastructure, industrialisation and urbanisation 
+	 which could detrimentally impact on access to healthcare, education, which in turn, leads to higher
+	 birth rates and lower life spans among the citizens of the mentioned regions. 
+	 
+	 A common observation made is that countries grouped in the higher clusters (first and second-world
+     countries)	 have higher life expectancies, while countries in low clusters (third-world or developing
+	 countries) have much lower life expectancies, which can greatly be attributed to lack of access to
+	 quality healthcare and poverty. 

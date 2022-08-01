@@ -126,7 +126,7 @@ __Creating cluster scatterplots:_
 
 # Contributors
 
-Tammy-Lee Bastian
+Tammy-Lee Bastian, HyperionDev
 
 tammyleebastian@gmail.com
 

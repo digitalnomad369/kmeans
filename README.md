@@ -52,7 +52,16 @@ tammyleebastian@gmail.com
 # License and Copyright
 
   © Tammy-Lee Bastian
+  
    Licensed under the [MIT License](LICENSE)
+
+# References 
+
+_Calculating Euclidean distance:_
+*https://www.delftstack.com/howto/numpy/calculate-euclidean-distance/*
+
+_Reading CSV files:_
+*https://docs.python.org/2/library/csv.html/*
   
   
 

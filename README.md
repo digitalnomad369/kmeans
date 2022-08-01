@@ -43,6 +43,17 @@ Alternatively, you can download Visual Studio Code which also supports compatibi
 - To download the Visual Studio Code IDE including the Coding Pack for Python, click on the following link: 
 *https://code.visualstudio.com/docs/python/coding-pack-python*
 
+In order to perform machine learning algorithms, you will also be required to install the Python SciPy, 
+NumPy, Matplotlib and Sci-Kit learn packages. 
+
+To install these packages, do the following:
+
+- Open the command prompt or terminal on your device
+- To install SciPy, type “__pip install scipy__” and press Enter.
+- To install NumPy, type “__pip install numpy__” and press Enter.
+- To install Matplotlib, type “__pip install matplotlib__” and press Enter.
+- To install Sci-Kit, type “__pip install sklearn__” and press Enter.
+
 # References 
 
 __Calculating Euclidean distance:__

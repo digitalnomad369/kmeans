@@ -66,11 +66,11 @@ is comprised of the following code blocks:
 - __Libraries__: in this block all external packages (csv, numpy and matplotlib) are imported. 
 - __Functions__: in these code blocks all required functions are declared. 
                  The following functions were used
-		 - __euclidean_dist_calc__ (this function computes the distance between two data points)
-		 - __read_csv__ (this function reads in data from csv files)
-		 - __nearest_centroid__ (this function finds the closest centroid to each point of all 
+		 1. __euclidean_dist_calc__ (this function computes the distance between two data points)
+		 2. __read_csv__ (this function reads in data from csv files)
+		 3. __nearest_centroid__ (this function finds the closest centroid to each point of all 
 		   the centroids)
-		 - __cluster_scatterplot__ (this function helps to plot and visualize the clusters)
+		 4.__cluster_scatterplot__ (this function helps to plot and visualize the clusters)
 
 # References 
 

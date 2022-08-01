@@ -46,6 +46,7 @@ Alternatively, you can download Visual Studio Code which also supports compatibi
 # Contributors
 
 Tammy-Lee Bastian
+
 tammyleebastian@gmail.com
 
 # License and Copyright
